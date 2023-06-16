@@ -22,10 +22,10 @@ com.omao.views.app-drawerlayout-1.1.1-20 /home/omao/.gradle/caches/transforms-3/
 com.omao.views.app-startup-runtime-1.1.1-21 /home/omao/.gradle/caches/transforms-3/f26718322a501c5a7e9362b2458c18c1/transformed/startup-runtime-1.1.1/res
 com.omao.views.app-lifecycle-livedata-core-2.5.1-22 /home/omao/.gradle/caches/transforms-3/f29f12aa2e7285b7793c7173a1edf8b8/transformed/lifecycle-livedata-core-2.5.1/res
 com.omao.views.app-appcompat-resources-1.6.1-23 /home/omao/.gradle/caches/transforms-3/f432505b8749195d0f9b890734873fbf/transformed/appcompat-resources-1.6.1/res
-com.omao.views.app-pngs-24 /home/omao/AndroidStudioProjects/Views/app/build/generated/res/pngs/debug
-com.omao.views.app-resValues-25 /home/omao/AndroidStudioProjects/Views/app/build/generated/res/resValues/debug
-com.omao.views.app-packageDebugResources-26 /home/omao/AndroidStudioProjects/Views/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.omao.views.app-packageDebugResources-27 /home/omao/AndroidStudioProjects/Views/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.omao.views.app-merged_res-28 /home/omao/AndroidStudioProjects/Views/app/build/intermediates/merged_res/debug
-com.omao.views.app-debug-29 /home/omao/AndroidStudioProjects/Views/app/src/debug/res
-com.omao.views.app-main-30 /home/omao/AndroidStudioProjects/Views/app/src/main/res
+com.omao.views.app-pngs-24 /home/omao/AndroidStudioProjects/ViewsApp/app/build/generated/res/pngs/debug
+com.omao.views.app-resValues-25 /home/omao/AndroidStudioProjects/ViewsApp/app/build/generated/res/resValues/debug
+com.omao.views.app-packageDebugResources-26 /home/omao/AndroidStudioProjects/ViewsApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.omao.views.app-packageDebugResources-27 /home/omao/AndroidStudioProjects/ViewsApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.omao.views.app-merged_res-28 /home/omao/AndroidStudioProjects/ViewsApp/app/build/intermediates/merged_res/debug
+com.omao.views.app-debug-29 /home/omao/AndroidStudioProjects/ViewsApp/app/src/debug/res
+com.omao.views.app-main-30 /home/omao/AndroidStudioProjects/ViewsApp/app/src/main/res
