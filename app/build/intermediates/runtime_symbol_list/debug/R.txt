@@ -2431,6 +2431,8 @@ int drawable abc_textfield_search_material 0x7f070054
 int drawable abc_vector_test 0x7f070055
 int drawable avd_hide_password 0x7f070056
 int drawable avd_show_password 0x7f070057
+int drawable batmanlogo 0x7f07009e
+int drawable bluebird 0x7f07009d
 int drawable btn_checkbox_checked_mtrl 0x7f070058
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f070059
 int drawable btn_checkbox_unchecked_mtrl 0x7f07005a
@@ -2716,6 +2718,7 @@ int id ifRoom 0x7f0800d4
 int id ignore 0x7f0800d5
 int id ignoreRequest 0x7f0800d6
 int id image 0x7f0800d7
+int id img1 0x7f0801dc
 int id immediateStop 0x7f0800d8
 int id included 0x7f0800d9
 int id info 0x7f0800da
